@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "express": "^4.19.2"
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "jest": "^29.7.0",
+    "ts-node": "^10.9.2"
   },
   "devDependencies": {
-    "@types/node": "^20.14.2"
+    "@types/node": "^20.14.2",
+    "typescript": "^5.4.5"
   }
 }
